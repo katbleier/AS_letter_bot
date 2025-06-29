@@ -202,7 +202,7 @@ with st.sidebar:
     - Was schreibt Schönberg über Notation?
     - Gibt es Polemik oder Humor in den Briefen?
     - Was steht in den Briefen über Pelleas?
-    - Fasse die wichtigsten Passagen über Verträge zusammen?
+    - Fasse die wichtigsten Passagen über Verträge zusammen
     
     **Example questions (English):**
     - Do the letters discuss performances of Pelleas?
