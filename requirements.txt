@@ -1,5 +1,3 @@
 pandas
 streamlit
-llama_index.core
-llama_index.llms.openai
-llamaindex.embeddings.openai
+llama-index
