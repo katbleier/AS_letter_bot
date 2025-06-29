@@ -10,7 +10,7 @@ st.set_page_config(page_title="Arnold Schönberg Letter Chatbot", page_icon="�
 
 # Title
 st.title("📜 Arnold Schönberg Letter Chatbot")
-st.write("This Chatbot allows you to ask questions about the Correspondence between Arnold Schönberg and his publishers Universal-Edition and Verlag Dreililien. A digital edition of these letters is availabel at www.schoenberg-ua.at. The chatbot is based on a file that contains letter IDs and letter text, metadata is no included. In addition to natural language interaction, the bot provides IDs and quotes from up to three relevant letters. Most of the letters are written in German.")
+st.write("This Chatbot allows you to ask questions about the Correspondence between Arnold Schönberg and his publishers Universal-Edition and Verlag Dreililien. A digital edition of these letters is availabel at www.schoenberg-ue.at. The chatbot is based on a file that contains letter IDs and letter text, metadata is no included. In addition to natural language interaction, the bot provides IDs and quotes from up to three relevant letters. Most of the letters are written in German.")
 st.write("Ask questions about the letters")
 
 # Sidebar for configuration
