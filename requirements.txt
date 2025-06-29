@@ -1,6 +1,4 @@
 pandas
-pathlib
-os
 streamlit
 llama_index.core
 llama_index.llms.openai
