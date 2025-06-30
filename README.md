@@ -5,7 +5,8 @@ Here you can find:
 - a CSV file containing letter IDs and letter texts
 - a CSV file containing the cleaned and chunked letters.
 - a Python script for cleaning and chunking
-- a Python script for the Streamlit chatbot.
+- a Python script for the Streamlit chatbot
+- documentation notebook
 
 Presentation: https://docs.google.com/presentation/d/1CGgopusvcVnybqQZp6k6H3MrUh7BF9bqkbL1Alr0FvE/edit?usp=sharing
 Chatbot: https://asletterbot-vqmzkltobryzn6ixr8xong.streamlit.app/
