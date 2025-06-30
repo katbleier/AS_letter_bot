@@ -8,5 +8,5 @@ Here you can find:
 - a Python script for the Streamlit chatbot
 - documentation notebook
 
-Presentation: https://docs.google.com/presentation/d/1CGgopusvcVnybqQZp6k6H3MrUh7BF9bqkbL1Alr0FvE/edit?usp=sharing
+
 Chatbot: https://asletterbot-vqmzkltobryzn6ixr8xong.streamlit.app/
