@@ -65,7 +65,6 @@ def load_csv_and_create_index(_openai_api_key, _selected_model):
         # Create documents from CSV rows
         documents = []
         for idx, row in df.iterrows():
-            # Combine all columns into a single text, you may want to adjust this based on your CSV structure
             text_content = str(row['text'])
             letter_id = str(row['letter_id'])
             
